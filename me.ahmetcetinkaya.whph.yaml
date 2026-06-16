@@ -73,17 +73,17 @@ modules:
     sources:
       - type: git
         url: https://github.com/ahmet-cetinkaya/whph.git
-        tag: v0.23.0
+        tag: v0.23.1
         disable-submodules: true
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+)$
-        commit: 5f5583bdccd36c069bf9e5ac9578ab629f8146fd
+        commit: 092d4e82dc4b44f04cffb79322819ff7205e0b7d
       - type: git
         url: https://github.com/ahmet-cetinkaya/acore-flutter.git
         branch: main
         dest: packages/acore-flutter
-        commit: 076acbc8b05185150a7fb1b2fab83b26130caa31
+        commit: c39fe81a25b56909ba66b3375227a3d33eb5acdd
       - generated/sources/pubspec.json
     modules:
       - generated/modules/flutter-sdk-3.32.0.json
