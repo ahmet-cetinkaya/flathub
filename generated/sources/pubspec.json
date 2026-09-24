@@ -492,16 +492,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/crypto-3.0.6.tar.gz",
-        "sha256": "1e445881f28f22d6140f181e07737b22f1e099a5e1ff94b0af2f9e4a463f4855",
+        "url": "https://pub.dev/api/archives/crypto-3.0.7.tar.gz",
+        "sha256": "c8ea0233063ba03258fbcf2ca4d6dadfefe14f02fab57702265467a19f27fadf",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/crypto-3.0.6"
+        "dest": ".pub-cache/hosted/pub.dev/crypto-3.0.7"
     },
     {
         "type": "inline",
-        "contents": "1e445881f28f22d6140f181e07737b22f1e099a5e1ff94b0af2f9e4a463f4855",
+        "contents": "c8ea0233063ba03258fbcf2ca4d6dadfefe14f02fab57702265467a19f27fadf",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "crypto-3.0.6.sha256"
+        "dest-filename": "crypto-3.0.7.sha256"
     },
     {
         "type": "archive",
@@ -1342,6 +1342,20 @@
         "contents": "f7142bb1154231d7ea5f96bc7bde4bda2a0945d2806bb11670e30b850d56bdec",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "material_color_utilities-0.11.1.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/mcp_dart-2.4.2.tar.gz",
+        "sha256": "5a185c1c02e90239e6f3ebca05ef51e04ac0f9c2b1b7ec7ffbb1a671a6379729",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/mcp_dart-2.4.2"
+    },
+    {
+        "type": "inline",
+        "contents": "5a185c1c02e90239e6f3ebca05ef51e04ac0f9c2b1b7ec7ffbb1a671a6379729",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "mcp_dart-2.4.2.sha256"
     },
     {
         "type": "archive",
@@ -3092,6 +3106,20 @@
         "contents": "e3493833ea012784c740e341952298f1cc77f1f01b1bbc3eb4eecf6984fb7f43",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "coverage-1.11.1.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/crypto-3.0.6.tar.gz",
+        "sha256": "1e445881f28f22d6140f181e07737b22f1e099a5e1ff94b0af2f9e4a463f4855",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/crypto-3.0.6"
+    },
+    {
+        "type": "inline",
+        "contents": "1e445881f28f22d6140f181e07737b22f1e099a5e1ff94b0af2f9e4a463f4855",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "crypto-3.0.6.sha256"
     },
     {
         "type": "archive",
