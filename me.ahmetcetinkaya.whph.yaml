@@ -78,7 +78,7 @@ modules:
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+)$
-        commit: 5928f65ee620a912dff03c12c25fee08b4f927b6
+        commit: 8919084a2c249b959eb93bfd3e097795f436d04d
       - type: git
         url: https://github.com/ahmet-cetinkaya/acore-flutter.git
         branch: main
